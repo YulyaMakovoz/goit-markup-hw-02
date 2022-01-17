@@ -1,3 +1,7 @@
-body{
-    background-color: aquamarine;
-}
+:root{
+    --brand-blue-color: #2196F3;
+    --brand-black-color:#212121;
+    --brand-grey-color: #757575;
+    --backgroun-button:#F5F4FA;
+    
+    }
