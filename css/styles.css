@@ -175,6 +175,15 @@
     .footer-nav .contact:hover{
         color: var(--brand-blue-color);
     }
+    .logo-page-studio-white{
+        color: var(--brand-white-color);
+
+        font-family: Raleway, sans-serif;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 26px;
+        line-height: 1.19;
+    }
  /*portfolio.html*/
  .button-filter{
      color: inherit;
